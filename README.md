@@ -30,7 +30,7 @@ Following the "100 Days of Code" methodology, each day includes:
 
 ## 🛠 Tech Stack
 
-* **Programming:** Python 3.12, C++
+* **Programming:** Python 3.12
 
 * **Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn
 
