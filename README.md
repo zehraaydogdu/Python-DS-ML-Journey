@@ -18,6 +18,7 @@ Welcome to my learning laboratory! This repository is a structured documentation
 
 ## 📁 Repository Structure
 
+```
 Python-ve-Derin-Ogrenme/
 │
 ├── README.md
@@ -56,6 +57,7 @@ Python-ve-Derin-Ogrenme/
 │   └── Diger/
 │
 └── 06-Mini-Projeler/
+```
 
 Following the "100 Days of Code" methodology, each day includes:
 
