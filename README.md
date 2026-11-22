@@ -28,35 +28,9 @@ Python-ve-Derin-Ogrenme/
 ├── 01-Python-Temelleri/
 │   ├── Degiskenler/
 │   ├── Veri-Tipleri/
-│   ├── Kosullar/
-│   ├── Donguler/
-│   ├── Fonksiyonlar/
-│   └── Nesne-Yonelimli-Programlama/
+│   ├── ...
 │
-├── 02-Veri-Bilimi/
-│   ├── NumPy/
-│   ├── Pandas/
-│   ├── Matplotlib/
-│   └── Veri-Analizi/
-│
-├── 03-Makine-Ogrenmesi/
-│   ├── Regresyon/
-│   ├── Siniflandirma/
-│   ├── Kumeleme/
-│   └── Model-Degerlendirme/
-│
-├── 04-Derin-Ogrenme/
-│   ├── Yapay-Sinir-Aglari/
-│   ├── TensorFlow/
-│   └── Uygulamalar/
-│
-├── 05-Kodlama-Pratikleri/
-│   ├── HackerRank/
-│   ├── LeetCode/
-│   ├── Codewars/
-│   └── Diger/
-│
-└── 06-Mini-Projeler/
+└── 06-...
 ```
 
 Following the "100 Days of Code" methodology, each day includes:
